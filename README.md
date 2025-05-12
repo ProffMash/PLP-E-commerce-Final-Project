@@ -10,8 +10,6 @@ An elegant, responsive, and user-friendly **E-commerce web application** built t
 
 - 🚀 Fully responsive design (mobile-first)
 - 🛍️ Product listing with filtering and search
-- 🛒 Add to Cart & Cart management
 - 🔎 Product details view
 - 📦 Smooth checkout interface (mock)
-- 🌙 Light/Dark mode toggle (optional)
 - ⚡ Fast performance powered by modern front-end tooling
